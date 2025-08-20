@@ -12,8 +12,9 @@
 
 ### Lecture Notes
 > From the course notes reviewed in class, take note on the material from this lesson as it relates to the Lesson Objectives and Guiding Question(s):
-
-...
+Use different password for multiple sites and make it strong.
+A benefit of cyber security is knowing what your doing and how you do it.
+... some of the things were gonna learn is hacking and stealing data.
 
 ### Application / Personal Research / Summary
 > In your own words, write a summary of this lesson and connect it to yourself and the real-world. If needbe, do a rapid research on the topic to help with you summary
@@ -22,5 +23,5 @@
 
 ### Vocabulary
 > Include the vocabulary word(s) from this lesson with a defintion
-
+Cyber Security: is about protecting you from digital attacks and accidents.
 ...
